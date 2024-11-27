@@ -3,6 +3,7 @@ package ioc.xtec.cat.selectionsort;
 public class SelectionSort {
 
    public void sort(int[] arr) {
+       System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
         int n = arr.length;
 
         for (int i = 0; i < n - 1; i++) {
